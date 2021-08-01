@@ -152,12 +152,12 @@
 時間:
   :writing: 時間
   :reading: じかん
-  :desc: ''
+  :desc: 'hour(length of time)'
   :frequency: '960'
 力:
   :writing: 力
   :reading: ちから
-  :desc: ''
+  :desc: 'POWER!'
   :frequency: '938'
 バカ:
   :writing: バカ
@@ -167,137 +167,137 @@
 体:
   :writing: 体
   :reading: からだ
-  :desc: ''
+  :desc: 'body'
   :frequency: '914'
 ダメ:
   :writing: ダメ
   :reading: だめ
-  :desc: ''
+  :desc: 'useless, broken'
   :frequency: '908'
 名前:
   :writing: 名前
   :reading: なまえ
-  :desc: ''
+  :desc: 'name'
   :frequency: '906'
 貴様:
   :writing: 貴様
   :reading: きさま
-  :desc: ''
+  :desc: 'idiot(extremely rude/swear)'
   :frequency: '905'
 日:
   :writing: 日
   :reading: ひ
-  :desc: ''
+  :desc: 'sun'
   :frequency: '888'
 者:
   :writing: 者
   :reading: もの
-  :desc: ''
+  :desc: 'person'
   :frequency: '867'
 男:
   :writing: 男
   :reading: おとこ
-  :desc: ''
+  :desc: 'man, male'
   :frequency: '829'
 上:
   :writing: 上
   :reading: うえ
-  :desc: ''
+  :desc: 'above, up, over'
   :frequency: '821'
 最後:
   :writing: 最後
   :reading: さいご
-  :desc: ''
+  :desc: 'end, conclusion'
   :frequency: '774'
 先:
   :writing: 先
   :reading: さき
-  :desc: ''
+  :desc: 'previous, prior, former, first, earlier'
   :frequency: '743'
 夜:
   :writing: 夜
   :reading: よる
-  :desc: ''
+  :desc: 'night'
   :frequency: '739'
 二人:
   :writing: 二人
   :reading: ふたり
-  :desc: ''
+  :desc: 'two person'
   :frequency: '730'
 女:
   :writing: 女
   :reading: おんな
-  :desc: ''
+  :desc: 'female'
   :frequency: '724'
 明日:
   :writing: 明日
   :reading: あした・あす
-  :desc: ''
+  :desc: 'tomorrow'
   :frequency: '712'
 次:
   :writing: 次
   :reading: つぎ
-  :desc: ''
+  :desc: 'next, order, sequence'
   :frequency: '708'
 場所:
   :writing: 場所
   :reading: ばしょ
-  :desc: ''
+  :desc: 'place, location'
   :frequency: '700'
 必要:
   :writing: 必要
   :reading: ひつよう
-  :desc: ''
+  :desc: 'necessary'
   :frequency: '694'
 別:
   :writing: 別
   :reading: べつ
-  :desc: ''
+  :desc: 'distinction, difference, discrimination'
   :frequency: '694'
 間:
   :writing: 間
   :reading: あいだ・ま・かん
-  :desc: ''
+  :desc: 'space (between), gap, interval, distance'
   :frequency: '687'
 彼:
   :writing: 彼
   :reading: かれ
-  :desc: ''
+  :desc: 'he, him'
   :frequency: '672'
 頑張る:
   :writing: 頑張る
   :reading: がんばる
-  :desc: ''
+  :desc: 'persevere'
   :frequency: '645'
 心配:
   :writing: 心配
   :reading: しんぱい
-  :desc: ''
+  :desc: 'worry, concern, anxiety' 
   :frequency: '637'
 後:
   :writing: 後
   :reading: あと・のち・ご
-  :desc: ''
+  :desc: 'behind, back, later'
   :frequency: '633'
 敵:
   :writing: 敵
   :reading: てき
-  :desc: ''
+  :desc: 'opponent, rival, adversary'
   :frequency: '599'
 仕事:
   :writing: 仕事
   :reading: しごと
-  :desc: ''
+  :desc: 'work, labor'
   :frequency: '595'
 先生:
   :writing: 先生
   :reading: せんせい
-  :desc: ''
+  :desc: 'teacher'
   :frequency: '594'
 無理:
   :writing: 無理
   :reading: むり
-  :desc: ''
+  :desc: 'unreasonable'
   :frequency: '589'
 問題:
   :writing: 問題
