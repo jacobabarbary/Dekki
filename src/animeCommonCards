@@ -7,147 +7,147 @@
 何:
   :writing: 何
   :reading: なに・なん
-  :desc: ''
+  :desc: 'what'
   :frequency: '5927'
 俺:
   :writing: 俺
   :reading: おれ
-  :desc: ''
+  :desc: 'I, Myself, Me, (man/masculine)'
   :frequency: '4403'
 僕:
   :writing: 僕
   :reading: ぼく
-  :desc: ''
+  :desc: 'I, Myself, Me, (boy/Slightly masculine)'
   :frequency: '3862'
 君:
   :writing: 君
   :reading: きみ
-  :desc: ''
+  :desc: 'buddy, friend'
   :frequency: '3572'
 人:
   :writing: 人
   :reading: ひと
-  :desc: ''
+  :desc: 'person'
   :frequency: '3553'
 お前:
   :writing: お前
   :reading: おまえ
-  :desc: ''
+  :desc: 'you, person infront of (you)'
   :frequency: '3154'
 今:
   :writing: 今
   :reading: いま
-  :desc: ''
+  :desc: 'now, current'
   :frequency: '2560'
 前:
   :writing: 前
   :reading: まえ・ぜん
-  :desc: ''
+  :desc: 'infront of, past'
   :frequency: '2213'
 自分:
   :writing: 自分
   :reading: じぶん
-  :desc: ''
+  :desc: 'oneself, [you,me,they]'
   :frequency: '2097'
 気:
   :writing: 気
   :reading: き
-  :desc: ''
+  :desc: 'spirit, mind, heart'
   :frequency: '1816'
 大丈夫:
   :writing: 大丈夫
   :reading: だいじょうぶ
-  :desc: ''
+  :desc: 'alright, okay, doing well'
   :frequency: '1699'
-人間:
+人間: 
   :writing: 人間
   :reading: にんげん
-  :desc: ''
+  :desc: 'human, himan, whoman , person'
   :frequency: '1655'
 手:
   :writing: 手
   :reading: て
-  :desc: ''
+  :desc: 'hand, arm'
   :frequency: '1636'
 本当:
   :writing: 本当
   :reading: ほんとう
-  :desc: ''
+  :desc: 'truth, reality'
   :frequency: '1589'
 今日:
   :writing: 今日
   :reading: きょう
-  :desc: ''
+  :desc: 'today'
   :frequency: '1508'
 方:
   :writing: 方
   :reading: ほう・かた
-  :desc: ''
+  :desc: 'direction'
   :frequency: '1490'
 世界:
   :writing: 世界
   :reading: せかい
-  :desc: ''
+  :desc: 'the world,sphere,society, the universe'
   :frequency: '1462'
 子:
   :writing: 子
   :reading: こ
-  :desc: ''
+  :desc: 'child'
   :frequency: '1368'
 中:
   :writing: 中
   :reading: なか
-  :desc: ''
+  :desc: 'midile'
   :frequency: '1303'
 誰:
   :writing: 誰
   :reading: だれ
-  :desc: ''
+  :desc: 'who'
   :frequency: '1276'
 時:
   :writing: 時
   :reading: とき
-  :desc: ''
+  :desc: 'hour,time'
   :frequency: '1273'
 我:
   :writing: 我
   :reading: われ
-  :desc: ''
+  :desc: 'oneself, i, me, you'
   :frequency: '1236'
 一緒:
   :writing: 一緒
   :reading: いっしょ
-  :desc: ''
+  :desc: 'together, at same the time'
   :frequency: '1204'
 話:
   :writing: 話
   :reading: はなし
-  :desc: ''
+  :desc: 'talk, speech'
   :frequency: '1131'
 目:
   :writing: 目
   :reading: め
-  :desc: ''
+  :desc: 'eye'
   :frequency: '1126'
 一人:
   :writing: 一人
   :reading: ひとり
-  :desc: ''
+  :desc: 'one person'
   :frequency: '1102'
 ヤツ:
   :writing: ヤツ
   :reading: やつ
-  :desc: ''
+  :desc: 'fellow, guy, chap'
   :frequency: '1050'
 事:
   :writing: 事
   :reading: こと
-  :desc: ''
+  :desc: 'thing, matter, incident, occurrence'
   :frequency: '977'
 心:
   :writing: 心
   :reading: こころ
-  :desc: ''
+  :desc: 'mind, heart, spirit'
   :frequency: '976'
 時間:
   :writing: 時間
