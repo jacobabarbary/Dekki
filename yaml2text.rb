@@ -8,7 +8,7 @@ puts data.inspect
 
 
 
-new_data = File.open("/home/jacob/.var/app/net.ankiweb.Anki/data/Anki2/User\ 1/collection.media/anki_format", "w")
+new_data = File.open("data/animeCommonCardsAnki", "w")
 
 
 
