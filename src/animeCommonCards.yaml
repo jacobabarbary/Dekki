@@ -302,1097 +302,1097 @@
 問題:
   :writing: 問題
   :reading: もんだい
-  :desc: ''
+  :desc: 'question'
   :frequency: '584'
 彼女:
   :writing: 彼女
   :reading: かのじょ
-  :desc: ''
+  :desc: 'she, her'
   :frequency: '583'
 国:
   :writing: 国
   :reading: くに
-  :desc: ''
+  :desc: 'country, state'
   :frequency: '571'
 物:
   :writing: 物
   :reading: もの
-  :desc: ''
+  :desc: 'thing, object'
   :frequency: '571'
 意味:
   :writing: 意味
   :reading: いみ
-  :desc: ''
+  :desc: 'meaning, significance'
   :frequency: '557'
 間違う:
   :writing: 間違う
   :reading: まちがう
-  :desc: ''
+  :desc: 'to make a mistake, to be incorrect, wrong'
   :frequency: '545'
 命:
   :writing: 命
   :reading: いのち
-  :desc: ''
+  :desc: 'life, life force'
   :frequency: '538'
 アル:
   :writing: アル
   :reading: あれ
-  :desc: ''
+  :desc: 'that(over there)'
   :frequency: '537'
 友達:
   :writing: 友達
   :reading: ともだち
-  :desc: ''
+  :desc: 'friend'
   :frequency: '536'
 声:
   :writing: 声
   :reading: こえ
-  :desc: ''
+  :desc: 'voice'
   :frequency: '534'
 学校:
   :writing: 学校
   :reading: がっこう
-  :desc: ''
+  :desc: 'school'
   :frequency: '531'
 夢:
   :writing: 夢
   :reading: ゆめ
-  :desc: ''
+  :desc: 'dream'
   :frequency: '525'
 お願い:
   :writing: お願い
   :reading: おねがい
-  :desc: ''
+  :desc: 'request'
   :frequency: '523'
 存在:
   :writing: 存在
   :reading: そんざい
-  :desc: ''
+  :desc: 'existence'
   :frequency: '521'
 子供:
   :writing: 子供
   :reading: こども
-  :desc: ''
+  :desc: 'child'
   :frequency: '512'
 絶対:
   :writing: 絶対
   :reading: ぜったい
-  :desc: ''
+  :desc: 'definitely, absolutely'
   :frequency: '509'
 相手:
   :writing: 相手
   :reading: あいて
-  :desc: ''
+  :desc: 'companion, partner'
   :frequency: '506'
 王:
   :writing: 王
   :reading: おう
-  :desc: ''
+  :desc: 'king, ruler, sovereign, monarch'
   :frequency: '504'
 家:
   :writing: 家
   :reading: いえ・うち
-  :desc: ''
+  :desc: 'house'
   :frequency: '504'
 先輩:
   :writing: 先輩
   :reading: せんぱい
-  :desc: ''
+  :desc: 'senior (at work or school)'
   :frequency: '502'
 神:
   :writing: 神
   :reading: かみ
-  :desc: ''
+  :desc: 'god, deity'
   :frequency: '499'
 気持ち:
   :writing: 気持ち
   :reading: きもち
-  :desc: ''
+  :desc: 'feeling, sensation, mood, state of mind'
   :frequency: '496'
 悪魔:
   :writing: 悪魔
   :reading: あくま
-  :desc: ''
+  :desc: 'devil, demon, fiend'
   :frequency: '492'
 他:
   :writing: 他
   :reading: ほか・た
-  :desc: ''
+  :desc: 'other (place, thing, person), the rest'
   :frequency: '484'
 名:
   :writing: 名
   :reading: な・めい
-  :desc: ''
+  :desc: 'name'
   :frequency: '478'
 顔:
   :writing: 顔
   :reading: かお
-  :desc: ''
+  :desc: 'face'
   :frequency: '475'
 第:
   :writing: 第
   :reading: だい
-  :desc: ''
+  :desc: 'prefix for forming ordinal numbers(eg first second ect...)'
   :frequency: '474'
 巨人:
   :writing: 巨人
   :reading: きょじん
-  :desc: ''
+  :desc: 'giant, great man'
   :frequency: '473'
 今度:
   :writing: 今度
   :reading: こんど
-  :desc: ''
+  :desc: 'this time, now'
   :frequency: '473'
 言葉:
   :writing: 言葉
   :reading: ことば
-  :desc: ''
+  :desc: 'language, dialect'
   :frequency: '470'
 了解:
   :writing: 了解
   :reading: りょうかい
-  :desc: ''
+  :desc: 'comprehension, consent, understanding, agreement'
   :frequency: '469'
 月:
   :writing: 月
   :reading: つき
-  :desc: ''
+  :desc: 'moon'
   :frequency: '463'
 死:
   :writing: 死
   :reading: し
-  :desc: ''
+  :desc: 'death'
   :frequency: '450'
 昨日:
   :writing: 昨日
   :reading: きのう
-  :desc: ''
+  :desc: 'yesterday'
   :frequency: '447'
 音:
   :writing: 音
   :reading: おと
-  :desc: ''
+  :desc: 'sound'
   :frequency: '444'
 石:
   :writing: 石
   :reading: いし
-  :desc: ''
+  :desc: 'stone'
   :frequency: '440'
 仲間:
   :writing: 仲間
   :reading: なかま
-  :desc: ''
+  :desc: 'companion, coworker, associate, friend'
   :frequency: '437'
 魔神:
   :writing: 魔神
   :reading: まじん
-  :desc: ''
+  :desc: 'devil, evil spirit, genie'
   :frequency: '436'
 以上:
   :writing: 以上
   :reading: いじょう
-  :desc: ''
+  :desc: 'beyond (e.g. ones expectations)'
   :frequency: '429'
 部屋:
   :writing: 部屋
   :reading: へや
-  :desc: ''
+  :desc: 'room'
   :frequency: '424'
 大佐:
   :writing: 大佐
   :reading: たいさ
-  :desc: ''
+  :desc: 'colonel, (navy) captain'
   :frequency: '420'
 ホント:
   :writing: ホント
   :reading: ほんと
-  :desc: ''
+  :desc: 'truth, reality'
   :frequency: '417'
 約束:
   :writing: 約束
   :reading: やくそく
-  :desc: ''
+  :desc: 'promise, agreement'
   :frequency: '414'
 ゲーム:
   :writing: ゲーム
   :reading: げーむ
-  :desc: ''
+  :desc: 'game'
   :frequency: '412'
 未来:
   :writing: 未来
   :reading: みらい
-  :desc: ''
+  :desc: 'the future (usually distant)'
   :frequency: '406'
 実:
   :writing: 実
   :reading: じつ
-  :desc: ''
+  :desc: 'fruit, nut'
   :frequency: '402'
 お兄ちゃん:
   :writing: お兄ちゃん
   :reading: おにいちゃん
-  :desc: ''
+  :desc: 'older brother'
   :frequency: '392'
 様:
   :writing: 様
   :reading: さま・よう・ざま
-  :desc: ''
+  :desc: '(very)polite sufix'
   :frequency: '390'
 普通:
   :writing: 普通
   :reading: ふつう
-  :desc: ''
+  :desc: 'normal, ordinary, common, average'
   :frequency: '388'
 下:
   :writing: 下
   :reading: した
-  :desc: ''
+  :desc: 'below, down, under, younger'
   :frequency: '384'
 空:
   :writing: 空
   :reading: そら・から・うろ・くう
-  :desc: ''
+  :desc: 'sky, the air, the heavens'
   :frequency: '384'
 一度:
   :writing: 一度
   :reading: いちど
-  :desc: ''
+  :desc: 'once, one time, on one occasion'
   :frequency: '383'
 賢者:
   :writing: 賢者
   :reading: けんじゃ
-  :desc: ''
+  :desc: 'wise person, sage'
   :frequency: '382'
 所:
   :writing: 所
   :reading: ところ・とこ
-  :desc: ''
+  :desc: 'place, spot'
   :frequency: '377'
 パン:
   :writing: パン
   :reading: ぱん
-  :desc: ''
+  :desc: 'bread'
   :frequency: '376'
 関係:
   :writing: 関係
   :reading: かんけい
-  :desc: ''
+  :desc: 'relation, relationship, connection'
   :frequency: '375'
 最初:
   :writing: 最初
   :reading: さいしょ
-  :desc: ''
+  :desc: 'beginning'
   :frequency: '364'
 パパ:
   :writing: パパ
   :reading: ぱぱ
-  :desc: ''
+  :desc: 'papa'
   :frequency: '358'
 ノート:
   :writing: ノート
   :reading: のーと
-  :desc: ''
+  :desc: 'note(book)'
   :frequency: '357'
 可能性:
   :writing: 可能性
   :reading: かのうせい
-  :desc: ''
+  :desc: 'potentiality, likelihood, possibility, availability'
   :frequency: '356'
 外:
   :writing: 外
   :reading: そと
-  :desc: ''
+  :desc: 'outside, exterior'
   :frequency: '352'
 頭:
   :writing: 頭
   :reading: あたま・かしら・こうべ
-  :desc: ''
+  :desc: 'head'
   :frequency: '348'
 次回:
   :writing: 次回
   :reading: じかい
-  :desc: ''
+  :desc: 'next time (occasion)'
   :frequency: '345'
 大事:
   :writing: 大事
   :reading: だいじ
-  :desc: ''
+  :desc: 'important, serious, crucial'
   :frequency: '337'
 マジ:
   :writing: マジ
   :reading: まじ
-  :desc: ''
+  :desc: 'serious, not joking, straight'
   :frequency: '336'
 年:
   :writing: 年
   :reading: とし
-  :desc: ''
+  :desc: 'year'
   :frequency: '333'
 電話:
   :writing: 電話
   :reading: でんわ
-  :desc: ''
+  :desc: 'phone'
   :frequency: '331'
 勝手:
   :writing: 勝手
   :reading: かって
-  :desc: ''
+  :desc: 'ones own convenience, ones way, selfishness'
   :frequency: '327'
 大変:
   :writing: 大変
   :reading: たいへん
-  :desc: ''
+  :desc: 'very, greatly, terribly, awfully'
   :frequency: '324'
 血:
   :writing: 血
   :reading: ち
-  :desc: ''
+  :desc: 'blood'
   :frequency: '323'
 元:
   :writing: 元
   :reading: もと
-  :desc: ''
+  :desc: 'origin, source'
   :frequency: '322'
 理由:
   :writing: 理由
   :reading: りゆう
-  :desc: ''
+  :desc: 'reason, pretext, motive'
   :frequency: '321'
 事件:
   :writing: 事件
   :reading: じけん
-  :desc: ''
+  :desc: 'event, incident, scandal'
   :frequency: '320'
 失礼:
   :writing: 失礼
   :reading: しつれい
-  :desc: ''
+  :desc: 'discourtesy, impoliteness'
   :frequency: '318'
 身:
   :writing: 身
   :reading: み
-  :desc: ''
+  :desc: 'body'
   :frequency: '317'
 姿:
   :writing: 姿
   :reading: すがた
-  :desc: ''
+  :desc: 'figure, form, shape'
   :frequency: '315'
 足:
   :writing: 足
   :reading: あし
-  :desc: ''
+  :desc: 'foot, paw, arm (of an octopus, squid, etc.)'
   :frequency: '310'
 道:
   :writing: 道
   :reading: みち
-  :desc: ''
+  :desc: 'road, path, street, lane, passage'
   :frequency: '309'
 分:
   :writing: 分
   :reading: ぶん・ふん・ぶ
-  :desc: ''
+  :desc: 'minute'
   :frequency: '309'
 針:
   :writing: 針
   :reading: はり
-  :desc: ''
+  :desc: 'needle, pin'
   :frequency: '306'
 状況:
   :writing: 状況
   :reading: じょうきょう
-  :desc: ''
+  :desc: 'situation, circumstances'
   :frequency: '305'
 記憶:
   :writing: 記憶
   :reading: きおく
-  :desc: ''
+  :desc: 'memory, recollection, remembrance'
   :frequency: '302'
 今回:
   :writing: 今回
   :reading: こんかい
-  :desc: ''
+  :desc: 'this time, now'
   :frequency: '302'
 燐:
   :writing: 燐
   :reading: となり
-  :desc: ''
+  :desc: 'phosphorus (P)'
   :frequency: '302'
 危険:
   :writing: 危険
   :reading: きけん
-  :desc: ''
+  :desc: 'danger, peril, hazard'
   :frequency: '301'
 奴:
   :writing: 奴
   :reading: やつ
-  :desc: ''
+  :desc: 'fellow, guy, chap'
   :frequency: '301'
 気付く:
   :writing: 気付く
   :reading: きづく
-  :desc: ''
+  :desc: 'to notice,to realize'
   :frequency: '296'
 邪魔:
   :writing: 邪魔
   :reading: じゃま
-  :desc: ''
+  :desc: 'hindrance, obstacle'
   :frequency: '296'
 無事:
   :writing: 無事
   :reading: ぶじ
-  :desc: ''
+  :desc: 'safety, security, peace, quiet'
   :frequency: '296'
 野郎:
   :writing: 野郎
   :reading: やろう
-  :desc: ''
+  :desc: 'guy, fellow'
   :frequency: '294'
 人造人間:
   :writing: 人造人間
   :reading: じんぞうにんげん
-  :desc: ''
+  :desc: 'android, artificial human, robot'
   :frequency: '290'
 能力:
   :writing: 能力
   :reading: のうりょく
-  :desc: ''
+  :desc: 'ability, faculty'
   :frequency: '287'
 確認:
   :writing: 確認
   :reading: かくにん
-  :desc: ''
+  :desc: 'confirmation, verification'
   :frequency: '286'
 色:
   :writing: 色
   :reading: いろ
-  :desc: ''
+  :desc: 'color'
   :frequency: '284'
 ママ:
   :writing: ママ
   :reading: まま
-  :desc: ''
+  :desc: 'mama'
   :frequency: '282'
 命令:
   :writing: 命令
   :reading: めいれい
-  :desc: ''
+  :desc: 'order, command, decree, directive'
   :frequency: '282'
 簡単:
   :writing: 簡単
   :reading: かんたん
-  :desc: ''
+  :desc: 'simple, easy, uncomplicated'
   :frequency: '281'
 家族:
   :writing: 家族
   :reading: かぞく
-  :desc: ''
+  :desc: 'family, members of a family'
   :frequency: '279'
 行動:
   :writing: 行動
   :reading: こうどう
-  :desc: ''
+  :desc: 'action, conduct, behaviour, mobilization'
   :frequency: '279'
 お姉ちゃん:
   :writing: お姉ちゃん
   :reading: おねえちゃん
-  :desc: ''
+  :desc: 'older sister'
   :frequency: '278'
 一体:
   :writing: 一体
   :reading: いったい
-  :desc: ''
+  :desc: '(what) the heck, (why) in the world, (who) on earth'
   :frequency: '277'
 錬金術:
   :writing: 錬金術
   :reading: れんきんじゅつ
-  :desc: ''
+  :desc: 'alchemy'
   :frequency: '275'
 メール:
   :writing: メール
   :reading: めーる
-  :desc: ''
+  :desc: 'mail'
   :frequency: '274'
 魂:
   :writing: 魂
   :reading: たましい
-  :desc: ''
+  :desc: 'soul, spirit'
   :frequency: '274'
 情報:
   :writing: 情報
   :reading: じょうほう
-  :desc: ''
+  :desc: 'information, news, intelligence'
   :frequency: '273'
 町:
   :writing: 町
   :reading: まち・ちょう
-  :desc: ''
+  :desc: 'town, block, neighborhood'
   :frequency: '273'
 口:
   :writing: 口
   :reading: くち
-  :desc: ''
+  :desc: 'mouth'
   :frequency: '272'
 使徒:
   :writing: 使徒
   :reading: しと
-  :desc: ''
+  :desc: 'apostle, disciple'
   :frequency: '272'
 連絡:
   :writing: 連絡
   :reading: れんらく
-  :desc: ''
+  :desc: 'contacting, (making) contact, communication'
   :frequency: '267'
 元気:
   :writing: 元気
   :reading: げんき
-  :desc: ''
+  :desc: 'lively, full of spirit, healthy, in good health'
   :frequency: '266'
 現実:
   :writing: 現実
   :reading: げんじつ
-  :desc: ''
+  :desc: 'reality, actuality, hard fact'
   :frequency: '266'
 目標:
   :writing: 目標
   :reading: もくひょう
-  :desc: ''
+  :desc: 'goal, target, aim, objective'
   :frequency: '264'
 作戦:
   :writing: 作戦
   :reading: さくせん
-  :desc: ''
+  :desc: 'tactics, strategy'
   :frequency: '263'
 世:
   :writing: 世
   :reading: よ・せい
-  :desc: ''
+  :desc: 'world, society, public'
   :frequency: '263'
 息子:
   :writing: 息子
   :reading: むすこ
-  :desc: ''
+  :desc: 'son'
   :frequency: '262'
 協力:
   :writing: 協力
   :reading: きょうりょく
-  :desc: ''
+  :desc: 'cooperation, collaboration'
   :frequency: '260'
 全部:
   :writing: 全部
   :reading: ぜんぶ
-  :desc: ''
+  :desc: 'all, entire, whole, altogether'
   :frequency: '257'
 何度:
   :writing: 何度
   :reading: なんど
-  :desc: ''
+  :desc: 'how many times, how many degrees'
   :frequency: '256'
 手伝う:
   :writing: 手伝う
   :reading: てつだう
-  :desc: ''
+  :desc: 'to help, to assist, to aid'
   :frequency: '255'
 昔:
   :writing: 昔
   :reading: むかし
-  :desc: ''
+  :desc: 'olden days, former'
   :frequency: '254'
 大切:
   :writing: 大切
   :reading: たいせつ
-  :desc: ''
+  :desc: 'important, necessary, indispensable, careful'
   :frequency: '254'
 剣:
   :writing: 剣
   :reading: けん・つるぎ
-  :desc: ''
+  :desc: 'sword (esp. a large, double-edged one)'
   :frequency: '252'
 場合:
   :writing: 場合
   :reading: ばあい
-  :desc: ''
+  :desc: 'case, situation'
   :frequency: '252'
 方法:
   :writing: 方法
   :reading: ほうほう
-  :desc: ''
+  :desc: 'method, process, technique'
   :frequency: '251'
 練習:
   :writing: 練習
   :reading: れんしゅう
-  :desc: ''
+  :desc: 'practice, training, drill, (an) exercise, workout'
   :frequency: '250'
 攻撃:
   :writing: 攻撃
   :reading: こうげき
-  :desc: ''
+  :desc: 'attack, assault, raid'
   :frequency: '243'
 目的:
   :writing: 目的
   :reading: もくてき
-  :desc: ''
+  :desc: 'purpose, goal, aim, objective, intention'
   :frequency: '243'
 出会う:
   :writing: 出会う
   :reading: であう
-  :desc: ''
+  :desc: 'to meet (by chance), to come across, to happen upon'
   :frequency: '242'
 過去:
   :writing: 過去
   :reading: かこ
-  :desc: ''
+  :desc: 'the past, bygone days'
   :frequency: '241'
 光:
   :writing: 光
   :reading: ひかり
-  :desc: ''
+  :desc: 'light'
   :frequency: '241'
 残念:
   :writing: 残念
   :reading: ざんねん
-  :desc: ''
+  :desc: 'deplorable, regrettable, disappointing'
   :frequency: '241'
 お父さん:
   :writing: お父さん
   :reading: おとうさん
-  :desc: ''
+  :desc: 'dad'
   :frequency: '240'
 クラス:
   :writing: クラス
   :reading: くらす
-  :desc: ''
+  :desc: 'class'
   :frequency: '240'
 完全:
   :writing: 完全
   :reading: かんぜん
-  :desc: ''
+  :desc: 'perfect, complete'
   :frequency: '240'
 駄目:
   :writing: 駄目
   :reading: だめ
-  :desc: ''
+  :desc: 'no good, not serving its purpose, useless, broken'
   :frequency: '240'
 大人:
   :writing: 大人
   :reading: おとな
-  :desc: ''
+  :desc: adult, grown-up''
   :frequency: '240'
 システム:
   :writing: システム
   :reading: しすてむ
-  :desc: ''
+  :desc: 'system'
   :frequency: '237'
 安心:
   :writing: 安心
   :reading: あんしん
-  :desc: ''
+  :desc: 'relief, peace of mind'
   :frequency: '237'
 無駄:
   :writing: 無駄
   :reading: むだ
-  :desc: ''
+  :desc: 'futility, waste, uselessness, pointlessness, idleness'
   :frequency: '237'
 覚悟:
   :writing: 覚悟
   :reading: かくご
-  :desc: ''
+  :desc: 'readiness, preparedness, resolution, resignation'
   :frequency: '236'
 警察:
   :writing: 警察
   :reading: けいさつ
-  :desc: ''
+  :desc: 'police'
   :frequency: '235'
 私達:
   :writing: 私達
   :reading: わたしたち
-  :desc: ''
+  :desc: 'we, us'
   :frequency: '235'
 説明:
   :writing: 説明
   :reading: せつめい
-  :desc: ''
+  :desc: 'explanation, exposition'
   :frequency: '235'
 本気:
   :writing: 本気
   :reading: ほんき
-  :desc: ''
+  :desc: 'seriousness, earnestness, truth, sanctity'
   :frequency: '235'
 連中:
   :writing: 連中
   :reading: れんちゅう
-  :desc: ''
+  :desc: 'company, lot, bunch, gang, pack, those guys, group'
   :frequency: '234'
 結果:
   :writing: 結果
   :reading: けっか
-  :desc: ''
+  :desc: 'result, consequence, outcome, effect'
   :frequency: '233'
 理解:
   :writing: 理解
   :reading: りかい
-  :desc: ''
+  :desc: 'understanding, comprehension, appreciation, sympathy'
   :frequency: '233'
 ドア:
   :writing: ドア
   :reading: どあ
-  :desc: ''
+  :desc: 'door'
   :frequency: '232'
 坊:
   :writing: 坊
   :reading: ぼう
-  :desc: ''
+  :desc: 'monk'
   :frequency: '231'
 落ちる:
   :writing: 落ちる
   :reading: おちる
-  :desc: ''
+  :desc: 'to fall down, to drop, to fall'
   :frequency: '229'
 主:
   :writing: 主
   :reading: おも・ぬし・あるじ・しゅ
-  :desc: ''
+  :desc: 'chief, main, principal, important'
   :frequency: '228'
 姫:
   :writing: 姫
   :reading: ひめ
-  :desc: ''
+  :desc: 'princess'
   :frequency: '228'
 面白い:
   :writing: 面白い
   :reading: おもしろい
-  :desc: ''
+  :desc: 'interesting, fascinating, intriguing, enthralling'
   :frequency: '228'
 兄:
   :writing: 兄
   :reading: あに
-  :desc: ''
+  :desc: 'older brother'
   :frequency: '226'
 金:
   :writing: 金
   :reading: きん・かね
-  :desc: ''
+  :desc: 'metal, gold'
   :frequency: '225'
 妹:
   :writing: 妹
   :reading: いもうと
-  :desc: ''
+  :desc: 'younger sister'
   :frequency: '224'
 達:
   :writing: 達
   :reading: たち
-  :desc: ''
+  :desc: 'pluralizing suffix (esp. for people and animals; formerly honorific, friend)'
   :frequency: '222'
 本物:
   :writing: 本物
   :reading: ほんもの
-  :desc: ''
+  :desc: 'genuine article, real thing, real deal'
   :frequency: '222'
 目指す:
   :writing: 目指す
   :reading: めざす
-  :desc: ''
+  :desc: 'to aim at (for, to do, to become), to try for, to have an eye on'
   :frequency: '222'
 形:
   :writing: 形
   :reading: かたち
-  :desc: ''
+  :desc: 'form, shape, figure'
   :frequency: '220'
 仕方:
   :writing: 仕方
   :reading: しかた
-  :desc: ''
+  :desc: 'way, method, means, resource, course'
   :frequency: '220'
 出来る:
   :writing: 出来る
   :reading: できる
-  :desc: ''
+  :desc: 'to be able (in a position) to do, to be up to the task'
   :frequency: '220'
 日本:
   :writing: 日本
   :reading: にほん
-  :desc: ''
+  :desc: 'jappan'
   :frequency: '219'
 父:
   :writing: 父
   :reading: ちち
-  :desc: ''
+  :desc: 'dad'
   :frequency: '218'
 お母さん:
   :writing: お母さん
   :reading: おかあさん
-  :desc: ''
+  :desc: 'mom'
   :frequency: '213'
 風:
   :writing: 風
   :reading: かぜ
-  :desc: ''
+  :desc: 'wind'
   :frequency: '211'
 閉口:
   :writing: 閉口
   :reading: へいこう
-  :desc: ''
+  :desc: 'to be stumped, to be at a loss, to be at ones wits end, to be nonplussed'
   :frequency: '211'
 準備:
   :writing: 準備
   :reading: じゅんび
-  :desc: ''
+  :desc: 'preparation, arrangements, getting ready, provision, setup, reserving'
   :frequency: '210'
 軍:
   :writing: 軍
   :reading: ぐん
-  :desc: ''
+  :desc: 'army, armed forces, troops'
   :frequency: '209'
 死神:
   :writing: 死神
   :reading: しにがみ
-  :desc: ''
+  :desc: 'god of death, death deity'
   :frequency: '209'
 愛:
   :writing: 愛
   :reading: あい
-  :desc: ''
+  :desc: 'love, affection, care'
   :frequency: '206'
 少佐:
   :writing: 少佐
   :reading: しょうさ
-  :desc: ''
+  :desc: 'major, lieutenant commander, wing commander'
   :frequency: '206'
 勉強:
   :writing: 勉強
   :reading: べんきょう
-  :desc: ''
+  :desc: 'study'
   :frequency: '206'
 ガキ:
   :writing: ガキ
   :reading: がき
-  :desc: ''
+  :desc: 'brat, kid, urchin, little devil'
   :frequency: '205'
 共:
   :writing: 共
   :reading: とも
-  :desc: ''
+  :desc: 'first-person plural (or singular)'
   :frequency: '205'
 人類:
   :writing: 人類
   :reading: じんるい
-  :desc: ''
+  :desc: 'mankind, humanity'
   :frequency: '205'
 師匠:
   :writing: 師匠
   :reading: ししょう
-  :desc: ''
+  :desc: 'master, teacher'
   :frequency: '203'
 嘘:
   :writing: 嘘
   :reading: うそ
-  :desc: ''
+  :desc: 'lie, fib, falsehood, untruth'
   :frequency: '202'
 用意:
   :writing: 用意
   :reading: ようい
-  :desc: ''
+  :desc: 'preparation, arrangements, provision, getting ready, laying out (e.g. a meal)'
   :frequency: '201'
 結局:
   :writing: 結局
   :reading: けっきょく
-  :desc: ''
+  :desc: 'after all, in the end, ultimately, eventually'
   :frequency: '200'
 駄菓子:
   :writing: 駄菓子
   :reading: だがし
-  :desc: ''
+  :desc: 'cheap sweets'
   :frequency: '200'
 本部:
   :writing: 本部
   :reading: ほんぶ
-  :desc: ''
+  :desc: 'headquarters, head office, main office'
   :frequency: '200'
 希望:
   :writing: 希望
   :reading: きぼう
-  :desc: ''
+  :desc: 'hope, wish, aspiration'
   :frequency: '194'
 当然:
   :writing: 当然
   :reading: とうぜん
-  :desc: ''
+  :desc: 'natural, right, proper, just, reasonable, appropriate, deserved'
   :frequency: '193'
 判断:
   :writing: 判断
   :reading: はんだん
-  :desc: ''
+  :desc: 'judgment, judgement, decision, conclusion, adjudication'
   :frequency: '193'
 興味:
   :writing: 興味
   :reading: きょうみ
-  :desc: ''
+  :desc: 'interest (in something), curiosity (about something)'
   :frequency: '192'
 夏:
   :writing: 夏
   :reading: なつ
-  :desc: ''
+  :desc: 'summer'
   :frequency: '190'
 急:
   :writing: 急
   :reading: きゅう
-  :desc: ''
+  :desc: 'sudden, abrupt, unexpected'
   :frequency: '190'
 失敗:
   :writing: 失敗
   :reading: しっぱい
-  :desc: ''
+  :desc: 'failure, mistake, blunder'
   :frequency: '190'
 勝負:
   :writing: 勝負
   :reading: しょうぶ
-  :desc: ''
+  :desc: 'victory or defeat'
   :frequency: '190'
 役:
   :writing: 役
   :reading: やく
-  :desc: ''
+  :desc: 'role, assignment, responsibility, duty, function, job, service'
   :frequency: '190'
 コツ:
   :writing: コツ
   :reading: こつ
-  :desc: ''
+  :desc: 'knack, skill, trick, secret, know-how, the ropes, hang'
   :frequency: '189'
 冗談:
   :writing: 冗談
   :reading: じょうだん
-  :desc: ''
+  :desc: 'jest, joke, funny story'
   :frequency: '189'
 お前ら:
   :writing: お前ら
   :reading: おまえら
-  :desc: ''
+  :desc: 'you (plural)'
   :frequency: '187'
 レベル:
   :writing: レベル
   :reading: れべる
-  :desc: ''
+  :desc: 'level'
   :frequency: '187'
 感謝:
   :writing: 感謝
   :reading: かんしゃ
-  :desc: ''
+  :desc: 'thanks, gratitude'
   :frequency: '186'
 兄弟:
   :writing: 兄弟
   :reading: きょうだい
-  :desc: ''
+  :desc: 'siblings'
   :frequency: '186'
 結構:
   :writing: 結構
   :reading: けっこう
-  :desc: ''
+  :desc: 'splendid, nice, wonderful, delicious, sweet'
   :frequency: '186'
 地球:
   :writing: 地球
   :reading: ちきゅう
-  :desc: ''
+  :desc: 'Earth, the globe'
   :frequency: '186'
 犯人:
   :writing: 犯人
   :reading: はんにん
-  :desc: ''
+  :desc: 'offender, criminal, culprit'
   :frequency: '186'
 バン:
   :writing: バン
   :reading: ばん
-  :desc: ''
+  :desc: 'bun (hairstyle)'
   :frequency: '185'
 場:
   :writing: 場
   :reading: ば・じょう
-  :desc: ''
+  :desc: 'place, spot, space'
   :frequency: '184'
 大好き:
   :writing: 大好き
   :reading: だいすき
-  :desc: ''
+  :desc: 'loveable, very likeable, like very much'
   :frequency: '182'
 海:
   :writing: 海
   :reading: うみ
-  :desc: ''
+  :desc: 'sea, ocean, waters'
   :frequency: '181'
 味方:
   :writing: 味方
   :reading: みかた
-  :desc: ''
+  :desc: 'friend, ally, supporter'
   :frequency: '181'
 迷惑:
   :writing: 迷惑
   :reading: めいわく
-  :desc: ''
+  :desc: 'trouble, bother, annoyance, nuisance, inconvenience'
   :frequency: '181'
 出る:
   :writing: 出る
   :reading: でる
-  :desc: ''
+  :desc: 'to leave, to exit'
   :frequency: '180'
 お前たち:
   :writing: お前たち
   :reading: おまえたち
-  :desc: ''
+  :desc: 'you (plural)'
   :frequency: '179'
 炎:
   :writing: 炎
   :reading: ほのお
-  :desc: ''
+  :desc: 'flame, blaze'
   :frequency: '179'
 兄貴:
   :writing: 兄貴
   :reading: あにき
-  :desc: ''
+  :desc: 'elder brother'
   :frequency: '179'
 水:
   :writing: 水
   :reading: みず
-  :desc: ''
+  :desc: 'water'
   :frequency: '179'
 他人:
   :writing: 他人
   :reading: たにん
-  :desc: ''
+  :desc: 'another person, other people, others'
   :frequency: '179'
 破壊:
   :writing: 破壊
   :reading: はかい
-  :desc: ''
+  :desc: 'destruction, disruption'
   :frequency: '179'
 味:
   :writing: 味
   :reading: あじ
-  :desc: ''
+  :desc: 'flavor, flavour, taste'
   :frequency: '179'
 神様:
   :writing: 神様
   :reading: かみさま
-  :desc: ''
+  :desc: 'God'
   :frequency: '178'
 最近:
   :writing: 最近
   :reading: さいきん
-  :desc: ''
+  :desc: 'recently, lately, these days, nowadays, right now'
   :frequency: '177'
 生徒:
   :writing: 生徒
   :reading: せいと
-  :desc: ''
+  :desc: 'pupil, student, schoolchild'
   :frequency: '177'
 武器:
   :writing: 武器
   :reading: ぶき
-  :desc: ''
+  :desc: 'weapon, arms, ordnance'
   :frequency: '177'
 嫌い:
   :writing: 嫌い
   :reading: きらい
-  :desc: ''
+  :desc: 'disliked, hated, disagreeable'
   :frequency: '176'
 利用:
   :writing: 利用
@@ -1402,102 +1402,102 @@
 苦労:
   :writing: 苦労
   :reading: くろう
-  :desc: ''
+  :desc: 'use, utilization, utilisation, application'
   :frequency: '175'
 秘密:
   :writing: 秘密
   :reading: ひみつ
-  :desc: ''
+  :desc: 'secret, secrecy, confidentiality, privacy'
   :frequency: '175'
 魔力:
   :writing: 魔力
   :reading: まりょく
-  :desc: ''
+  :desc: 'magical powers, supernatural powers, spell, charm'
   :frequency: '175'
 データ:
   :writing: データ
   :reading: でーた
-  :desc: ''
+  :desc: 'data'
   :frequency: '174'
 皆:
   :writing: 皆
   :reading: みな・みんあ
-  :desc: ''
+  :desc: 'everyone, everybody, all'
   :frequency: '174'
 真実:
   :writing: 真実
   :reading: しんじつ
-  :desc: ''
+  :desc: 'truth, reality'
   :frequency: '174'
 永遠:
   :writing: 永遠
   :reading: えいえん
-  :desc: ''
+  :desc: 'eternity, perpetuity, permanence, immortality'
   :frequency: '173'
 街:
   :writing: 街
-  :reading: 町
-  :desc: ''
+  :reading: がい
+  :desc: '... street, ... quarter, ... district'
   :frequency: '173'
 距離:
   :writing: 距離
   :reading: きょり
-  :desc: ''
+  :desc: 'distance, range'
   :frequency: '173'
 クソ:
   :writing: クソ
   :reading: くそ
-  :desc: ''
+  :desc: 'crap(swear word)'
   :frequency: '172'
 テスト:
   :writing: テスト
   :reading: てすと
-  :desc: ''
+  :desc: 'test'
   :frequency: '172'
 現在:
   :writing: 現在
   :reading: げんざい
-  :desc: ''
+  :desc: 'the present, present time, now'
   :frequency: '172'
 最高:
   :writing: 最高
   :reading: さいこう
-  :desc: ''
+  :desc: 'most, highest, maximum, uppermost, supreme'
   :frequency: '172'
 腕:
   :writing: 腕
   :reading: うで
-  :desc: ''
+  :desc: 'arm'
   :frequency: '171'
 十分:
   :writing: 十分
   :reading: じゅうぶん
-  :desc: ''
+  :desc: 'enough, sufficient, plenty, 10 minutes'
   :frequency: '170'
 傷:
   :writing: 傷
   :reading: きず
-  :desc: ''
+  :desc: 'wound, injury, cut, gash, bruise, scratch, scrape, scar'
   :frequency: '170'
 パイロット:
   :writing: パイロット
   :reading: ぱいろっと
-  :desc: ''
+  :desc: 'pilot'
   :frequency: '169'
 時代:
   :writing: 時代
   :reading: じだい
-  :desc: ''
+  :desc: 'period, epoch, era, age'
   :frequency: '169'
 扉:
   :writing: 扉
   :reading: とびら
-  :desc: ''
+  :desc: 'door, gate, opening'
   :frequency: '169'
 ケンカ:
   :writing: ケンカ
   :reading: けんか
-  :desc: ''
+  :desc: 'fight'
   :frequency: '168'
 ! '':
   :writing: 
